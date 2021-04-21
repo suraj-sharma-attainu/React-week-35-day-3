@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.black-box {
+  width: 250px;
+  height: 250px;
+  background: #000;
+}
+
+.red-box {
+  width: 250px;
+  height: 250px;
+  background: #ff0000;
+}
+
+.valid {
+  border: 5px solid green;
+  padding: 10px;
+}
+
+.error {
+  border: 5px solid red;
+  padding: 10px;
+}
